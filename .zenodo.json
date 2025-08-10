@@ -1,0 +1,63 @@
+{
+  "title": "Study of Protein-Protein Interactions in Septin Assembly: Multiple Amphipathic Helix Domains Cooperate in Binding to the Lipid Membrane",
+  "upload_type": "dataset",
+  "publication_date": "2025-08-08",
+  "creators": [
+    {
+      "name": "Mofidi, S. Mahsa",
+      "affiliation": "Center for Computational Biology, Flatiron Institute, New York, NY"
+    },
+    {
+      "name": "Sahoo, Abhilash",
+      "affiliation": "Center for Computational Biology, Flatiron Institute, New York, NY",
+      "orcid": "0000-0002-6784-609X"
+    },
+    {
+      "name": "Edelmaier, Christopher J.",
+      "affiliation": "Department of Applied Physical Sciences, UNC Chapel Hill, NC"
+    },
+    {
+      "name": "Klawa, Stephen J.",
+      "affiliation": "Department of Applied Physical Sciences, UNC Chapel Hill, NC"
+    },
+    {
+      "name": "Freeman, Ronit",
+      "affiliation": "Department of Applied Physical Sciences, UNC Chapel Hill, NC"
+    },
+    {
+      "name": "Gladfelter, Amy",
+      "affiliation": "Department of Cell Biology, Duke University, Durham, NC"
+    },
+    {
+      "name": "Forest, M. Gregory",
+      "affiliation": "Department of Mathematics, UNC Chapel Hill, NC"
+    },
+    {
+      "name": "Nazockdast, Ehssan",
+      "affiliation": "Department of Applied Physical Sciences, UNC Chapel Hill, NC"
+    },
+    {
+      "name": "Hanson, Sonya M.",
+      "affiliation": "Center for Computational Biology, Flatiron Institute, New York, NY",
+      "orcid": "0000-0001-8960-5353"
+    }
+  ],
+  "description": "This repository contains data, analysis scripts, and figures used in the study of amphipathic helix (AH) domains in septin assembly. Using all-atom molecular dynamics simulations, the work explores how single and multiple AH peptides interact with lipid bilayers, including membrane-induced curvature, peptide bending, lipid packing defects, and peptide-peptide interactions. The findings contribute to understanding cooperative membrane binding and septin filament formation.",
+  "keywords": [
+    "septins",
+    "membrane curvature",
+    "amphipathic helix",
+    "molecular dynamics",
+    "lipid bilayer",
+    "protein-protein interaction",
+    "membrane remodeling"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "DOI_OF_YOUR_PAPER_ONCE_KNOWN"
+    }
+  ]
+}
