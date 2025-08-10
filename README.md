@@ -29,6 +29,7 @@ This repository contains:
 - `scripts/` – All Python scripts and Jupyter notebooks used to analyze simulation data, including calculations of bending angles, area-per-lipid (APL) maps, nematic order parameters, and salt bridge interactions.
 - `data/` – Processed data files generated from VMD's SaltBridge Tool and Bendix, used in figures and plots.
 - `figures/` – Final figure panels and individual visualizations included in the manuscript.
+- `movies/` – Compressed simulation videos demonstrating single and paired peptide conformations and membrane interactions.
 
 
 
