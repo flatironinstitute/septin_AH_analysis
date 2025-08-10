@@ -33,7 +33,7 @@ figures/ # Figures included in the manuscript
 
 ## License
 
-- **Code** in this repository is licensed under the MIT License — see `SOFTWARE_LICENSE`.
+- **Code** in this repository is licensed under the MIT License. See the file LICENSE for the full term
 - **Data** in this repository is made available under the Creative Commons Attribution 4.0 International (CC BY 4.0) License — see `DATA_LICENSE`.
 
 ---
