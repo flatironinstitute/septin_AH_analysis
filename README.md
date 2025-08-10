@@ -7,7 +7,7 @@ This repository hosts data, analysis scripts, and figures associated with the fo
 
 **Study of Protein-Protein Interactions in Septin Assembly: How Multiple Amphipathic Helix Domains Cooperate in Binding to the Lipid Membrane**  
 Mahsa Mofidi et al.
-DOI: [*To be added after Zenodo release*]
+DOI: (https://doi.org/10.5281/zenodo.16790389)
 
 ---
 
