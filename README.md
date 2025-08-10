@@ -1,4 +1,4 @@
-# septin_ah_analysis
+# septin_AH_analysis
 
 Code and processed data for the paper:  
 **"Study of Protein-Protein Interactions in Septin Assembly: How Multiple Amphipathic Helix Domains Cooperate in Binding to the Lipid Membrane"**
@@ -6,7 +6,7 @@ Code and processed data for the paper:
 This repository hosts data, analysis scripts, and figures associated with the following publication:
 
 **Study of Protein-Protein Interactions in Septin Assembly: How Multiple Amphipathic Helix Domains Cooperate in Binding to the Lipid Membrane**  
-Mahsa Mofidi, [co-authors to be listed]  
+Mahsa Mofidi et al.
 DOI: [*To be added after Zenodo release*]
 
 ---
