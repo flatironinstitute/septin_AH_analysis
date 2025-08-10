@@ -25,9 +25,9 @@ This repository contains:
 
 ## Manifest
 
-scripts/ # Python scripts for analyzing simulation data
-data/ # Processed data files used in figures and plots
-figures/ # Figures included in the manuscript
+scripts/ # All Python scripts and Jupyter notebooks used to analyze simulation data, including calculations of bending angles, area-per-lipid (APL) maps, nematic order parameters, and salt bridge interactions.
+data/ # Processed data files generated from VMD SaltBridge Tool and Bendix and used in figures and plots
+figures/ # Final figure panels and individual visualizations included in the manuscript
 
 ---
 
