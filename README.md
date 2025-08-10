@@ -1,4 +1,5 @@
 # septin_AH_analysis
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16790389.svg)](https://doi.org/10.5281/zenodo.16790389)
 
 Code and processed data for the paper:  
 **"Study of Protein-Protein Interactions in Septin Assembly: How Multiple Amphipathic Helix Domains Cooperate in Binding to the Lipid Membrane"**
