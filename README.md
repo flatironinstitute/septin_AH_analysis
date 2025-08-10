@@ -44,7 +44,7 @@ If you use this code or data, please cite:
 
 S. Mahsa Mofidi, Abhilash Sahoo, Christopher J. Edelmaier, Stephen J. Klawa, Ronit Freeman, Amy Gladfelter, M. Gregory Forest, Ehssan Nazockdast, Sonya M. Hanson.  
 *Study of Protein-Protein Interactions in Septin Assembly: Multiple Amphipathic Helix Domains Cooperate in Binding to the Lipid Membrane.*  
-Zenodo. [https://doi.org/10.5281/zenodo.16790336](https://doi.org/10.5281/zenodo.16790336)
+Zenodo. [https://doi.org/10.5281/zenodo.16790389](https://doi.org/10.5281/zenodo.16790389)
 
 ---
 
