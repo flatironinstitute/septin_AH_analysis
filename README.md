@@ -14,7 +14,6 @@ This repository contains:
 - Processed output from molecular dynamics simulations (e.g., local bending angles, area-per-lipid maps, nematic order parameters)
 - Python analysis scripts used to generate all reported metrics and visualizations
 - Figure panels and snapshot frames from simulation trajectories
-- Sequence alignments and tools for generating conservation figures
 
 > 🔗 *Note: Due to size constraints, raw simulation trajectories are not included here but are available upon request.*
 
