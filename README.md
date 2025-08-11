@@ -6,9 +6,6 @@ Code and processed data for the paper:
 
 This repository hosts data, analysis scripts, and figures associated with the following publication:
 
-**Study of Protein-Protein Interactions in Septin Assembly: How Multiple Amphipathic Helix Domains Cooperate in Binding to the Lipid Membrane**  
-Mahsa Mofidi et al.
-
 ---
 
 ## Data and Materials
@@ -29,7 +26,6 @@ This repository contains:
 - `data/` – Processed data files generated from VMD's SaltBridge Tool and Bendix, used in figures and plots.
 - `figures/` – Final figure panels and individual visualizations included in the manuscript.
 - `movies/` – Compressed simulation videos demonstrating single and paired peptide conformations and membrane interactions.
-
 
 
 ---
