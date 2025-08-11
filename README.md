@@ -8,7 +8,6 @@ This repository hosts data, analysis scripts, and figures associated with the fo
 
 **Study of Protein-Protein Interactions in Septin Assembly: How Multiple Amphipathic Helix Domains Cooperate in Binding to the Lipid Membrane**  
 Mahsa Mofidi et al.
-DOI: (https://doi.org/10.5281/zenodo.16790389)
 
 ---
 
@@ -23,7 +22,7 @@ This repository contains:
 > 🔗 *Note: Due to size constraints, raw simulation trajectories are not included here but are available upon request.*
 
 ---
-## Manifest
+
 ## Manifest
 
 - `scripts/` – All Python scripts and Jupyter notebooks used to analyze simulation data, including calculations of bending angles, area-per-lipid (APL) maps, nematic order parameters, and salt bridge interactions.
